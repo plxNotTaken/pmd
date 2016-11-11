@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:7
+-keep class pt.ubi.di.pmd.implicit.implicit { <init>(...); }
+
+# onClick res/layout/main.xml #generated:7
+-keepclassmembers class * { *** sendMessage(...); }
+
