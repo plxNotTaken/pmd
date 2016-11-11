@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MainActivity</string>
+    <string name = "dialog_title">Alerta</string>
+    <string name = "dialog_message">Deseja continuar? </string>
+    <string name = "dialog_ok">Sim</string>
+    <string name = "dialog_cancel">Nao</string>
 </resources>

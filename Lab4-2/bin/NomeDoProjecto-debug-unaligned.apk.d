@@ -1,3 +1,3 @@
-c:\Users\Telmo\Desktop\pmd\Lab4-2\bin\NomeDoProjecto-debug-unaligned.apk : \
-c:\Users\Telmo\Desktop\pmd\Lab4-2\bin\NomeDoProjecto.ap_ \
-c:\Users\Telmo\Desktop\pmd\Lab4-2\bin\classes.dex \
+C:\Users\Telmo\Desktop\pmd\Lab4-2\bin\NomeDoProjecto-debug-unaligned.apk : \
+C:\Users\Telmo\Desktop\pmd\Lab4-2\bin\NomeDoProjecto.ap_ \
+C:\Users\Telmo\Desktop\pmd\Lab4-2\bin\classes.dex \
